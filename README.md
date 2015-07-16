@@ -1,0 +1,2 @@
+# SmackBot
+A modular SlackBot
